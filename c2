@@ -1,0 +1,20 @@
+1、#include<stdio.h>
+Void main ()
+{
+Int a, b;
+a=32767;
+b=a+1;
+printf(“%d,%d\n,a,b”);
+}
+运行结果
+32767，-32768
+2、#include<studio.h>
+Void main()
+{
+Float a,b;
+a=1234567.789e5;
+b=a+20;
+printf(“%f\n,b”)
+}
+
+
